@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 26, 188, 156;
+  --bs-primary-rgb: 126, 186, 181;
   --bs-secondary-rgb: 44, 62, 80;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11505,5 +11505,5 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: rgb(44, 62, 80);
 }
